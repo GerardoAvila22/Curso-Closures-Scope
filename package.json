@@ -1,0 +1,12 @@
+{
+  "name": "curso-closures-scope",
+  "version": "1.0.0",
+  "description": "Comprende a la perfección los diferentes alcances que tienen tus variables cuando son declaradas en JavaScript. Los conceptos fundamentales de Scope global y local, cómo declarar variables con const, let y var. Con ejercicios prácticos domina el uso de Closures en tus desarrollos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
