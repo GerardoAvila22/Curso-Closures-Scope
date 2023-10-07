@@ -24,7 +24,7 @@ Conceptos fundamentales de Scope global y local, cómo declarar variables con co
 	- [¿Qué es el Hoisting?](Temario/10-Qué-es-el-Hoisting.md)
 
 4. **Debugging**
-	- [Debugging](Temario/11-Debugging.md.md)
+	- [Debugging](Temario/11-Debugging.md)
 
 
 
